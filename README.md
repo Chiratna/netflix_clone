@@ -1,16 +1,13 @@
-# netflix_clone
+# CineHall
 
-A new Flutter project.
+CineHall is a online movie review app which lets the user see which movies are trending, their reviews and casts. The app is fully build in Flutter and uses GetX as its state management solution.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# UI 
+<div class="row">
+      <img src="screenshots/ss1.jpg" width="250">
+      <img src="screenshots/ss2.jpg" width="250">
+      <img src="screenshots/ss3.jpg" width="250">
+      <img src="screenshots/ss4.jpg" width="250">
+      <img src="screenshots/ss5.jpg" width="250">
+      <img src="screenshots/ss6.jpg" width="250">
+</div>
